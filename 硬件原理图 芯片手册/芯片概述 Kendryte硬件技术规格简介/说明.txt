@@ -1,0 +1,2 @@
+kendryte-doc-datasheet 文件夹下的 zh-Hans文件夹下
+是 kendryte 的AI解决方案和芯片硬件规格手册，直接看这个就行
