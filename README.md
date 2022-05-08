@@ -27,8 +27,9 @@ K210 是 RISC-V 64 位双核处理器，集成了可运行神经网络算法的�
 
 -   [K210 MaixPy 从入门到飞升--AI视觉篇--完全教程（以及一些小问题处理比如内存不足）-次世代BUG池 (neucrack.com)](https://neucrack.com/p/325) 比较完整的入门教程。
     -   [K210 kmodel 模型储存数据结构-次世代BUG池 (neucrack.com)](https://neucrack.com/p/307)。[K210 从flash实时加载大模型-次世代BUG池 (neucrack.com)](https://neucrack.com/p/313)。
+    -   [K210 kflash ISP 下载程序流程-次世代BUG池 (neucrack.com)](https://neucrack.com/p/312)。[k210 kfpkg 打包 多个bin文件打包, 打包原理-次世代BUG池 (neucrack.com)](https://neucrack.com/p/158)。
     -   [K210+MLX90640红外热像仪-次世代BUG池 (neucrack.com)](https://neucrack.com/p/189)。[K210上用MaixPy写个简单的云台程序: 高性价比的人脸跟随云台-次世代BUG池 (neucrack.com)](https://neucrack.com/p/308)。
-
+    
 -   [K210_Top嵌入式的博客-CSDN博客](https://blog.csdn.net/qq_45396672/category_10809105.html)。
 -   [神器！K210开发板运行神经网络模型（保姆级教程）_ JeckXu的博客-CSDN博客 _k210和openmv哪个好用](https://blog.csdn.net/qq_45396672/article/details/117390991)。
 -   [K210模型转换，运行MNIST于MAIX开发板（完整攻略） (360doc.com)](http://www.360doc.com/content/19/1217/09/40492717_880267082.shtml)。
