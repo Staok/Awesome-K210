@@ -5,13 +5,18 @@ K210 是 RISC-V 64 位双核处理器，集成了可运行神经网络算法的�
 
 ## 有关K210学习和实例的github仓库枚举
 
-### kendryte官方
+### kendryte 官方 Github 仓库
 
 -   https://github.com/kendryte —— 梦开始的地方，源头，包括 K210 的 c 语言开发 IDE 及其丰富的历程 SDK，包含裸机和 FreeRTOS 两版。
 -   https://github.com/kendryte/kendryte-standalone-demo —— c 语言开发 IDE 下的丰富历程，kendryte 名下另有 FreeRTOS 版本。
 -   https://github.com/kendryte/kendryte-doc-standalone-programming-guide —— c 语言开发 IDE 下的裸机编程手册，kendryte 名下另有 FreeRTOS 版本。
 
-### sipeed官方
+### 嘉楠官网
+
+- https://www.canaan-creative.com/developer SDK、HDK 等下载。
+- [嘉楠开发者社区 (canaan-creative.com)](https://developer.canaan-creative.com/index.html?channel=developer#/model/library) 模型库。
+
+### sipeed 官方 Github 仓库
 
 -   https://github.com/sipeed/MaixPy —— 发扬光大，microPython 语言开发 IDE —— MaixPy。
 -   https://github.com/sipeed/MaixPy_scripts —— MaixPy 的丰富历程。
