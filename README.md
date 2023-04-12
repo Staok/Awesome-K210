@@ -3,6 +3,8 @@
 
 K210 是 RISC-V 64 位双核处理器，集成了可运行神经网络算法的硬件 IP核，以及其它常用外设。其可直接跑 kmodel 格式模型，此模型可从 TensorFlow 模型转换为 TFlite 模型、TFLite 模型转换为 K210 的 kmodel 模型 而得到。
 
+仓库内容比较大 约 270MB。
+
 ## 有关K210学习和实例的github仓库枚举
 
 ### kendryte 官方 Github 仓库
